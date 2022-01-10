@@ -8,7 +8,7 @@ TikVPN Account Creation PHP Script
 <p>You can enter the password you want, or you can get a random password.</p>
 </blockquote>
 <blockquote>
-<p>You can use temporary email services to create an account. <a href='https://temp-mail.org/' target='_blank'>Temp-Mail Web</a> - <a href='https://t.me/TempMail_org_bot' target='_blank'>Temp-Mail Telegram Bot</a></p>
+<p>You can use temporary email services to create an account. <a href='https://temp-mail.org/'>Temp-Mail Web</a> - <a href='https://t.me/TempMail_org_bot'>Temp-Mail Telegram Bot</a></p>
 </blockquote>
 <h2>Installation & Usage:</h2>
 
